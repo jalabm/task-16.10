@@ -1,0 +1,61 @@
+/* *{
+    margin: 0px;
+   padding: 0px;
+
+    
+} */
+body{
+    background-color: rgb(201, 226, 248);
+    padding: 50px;
+    margin-top: 60px;
+}
+.first{
+    color: rgb(128, 177, 213);
+    font-size: 12px;
+}
+ 
+.main{
+    width: 500px;
+    height: 400px;
+    margin-top: 60px;
+    background-color: white;
+    display: inline-block;
+  
+}
+.name-input{
+    width: 300px;
+    height: 30px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.email-input{
+    width: 300px;
+    height: 30px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.phone-input{
+    width: 300px;
+    height: 30px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.need-input{
+    width: 300px;
+    height: 30px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.note-input{
+    width: 300px;
+    height: 70px;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+button{
+    width: 310px;
+    height: 30px;
+    background-color: rgb(107, 160, 183);  
+    color: white;
+}
